@@ -1,5 +1,4 @@
 ![Data Science!](http://www.copyright.com/wp-content/uploads/2017/11/enterprise-data-science.png)
-Format: ![Image found at copyright.com](url)
 
 Created by Jason Merten
 
