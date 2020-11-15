@@ -1,4 +1,6 @@
- Created by Jason Merten
+![Data Science!](https://www.calu.edu/academics/undergraduate/bachelors/data-science/_files/sasbachelors-hero.jpg)
+
+Created by Jason Merten
 
 ## Module 1
 Introduction to Business Analytics
