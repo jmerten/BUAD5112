@@ -1,4 +1,4 @@
-![Data Science!](https://www.calu.edu/academics/undergraduate/bachelors/data-science/_files/sasbachelors-hero.jpg)
+![Data Science!](http://www.copyright.com/wp-content/uploads/2017/11/enterprise-data-science.png)
 
 Created by Jason Merten
 
