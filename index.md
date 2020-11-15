@@ -32,3 +32,6 @@ Algorithms
 Algorithms and Ethics
 
 **Coming Soon!**
+
+## Take a look at my other work:
+[Coursera DataScience Capstone](https://github.com/jmerten/Coursera_Capstone)
