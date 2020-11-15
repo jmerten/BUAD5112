@@ -3,12 +3,8 @@
 ## Module 1
 Introduction to Business Analytics
 
-[Go to Folder](/M1/index.md)
-
 ## Module 2
 Effective Visual Communication
-
-[Go to Folder](/M2/index.md)
 
 ## Module 3
 Effective Presentation of Analytics
